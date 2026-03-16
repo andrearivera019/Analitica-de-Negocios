@@ -1,2 +1,2 @@
 # Analitica-de-Negocios
-Aquí se encuentran una serie de modelos desarrollados en GoogleColab que se relacionan con analítica de negocios 
+Este repositorio contiene el desarrollo de análisis y modelos aplicados a problemas de analítica de negocios, utilizando técnicas de análisis de datos, visualización y modelamiento estadístico. El objetivo es transformar datos en información relevante para apoyar la toma de decisiones estratégicas, a través del uso de herramientas como Python, R y métodos de análisis cuantitativo.
